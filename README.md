@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MailDmitro
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Rust
